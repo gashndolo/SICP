@@ -1,0 +1,2 @@
+#lang racket
+;Because of the applicative order evaluation in Scheme, the interpreter has to evaluate everything. This means that new if wlll be stuck on the third argument forever running (sqrt-iter <> <>) 
