@@ -4,5 +4,5 @@
                  (+ c (abs (* c (/ p 100))))))
 
 (define (percent interval)
-  (* 100 (/ (width i) (center i)))) 
+  (* 100 (/ (width interval) (center interval)))) 
                  
