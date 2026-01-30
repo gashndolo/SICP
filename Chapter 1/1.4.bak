@@ -1,0 +1,5 @@
+#lang racket
+(define (a-plus-abs-b a b)
+  ((if (> b 0) + -) a b))
+
+# The operand will either be a + or a - depending on whether or not b is greater than 0. Basically adding a and the absolute value of b
