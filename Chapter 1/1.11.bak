@@ -14,6 +14,4 @@
   (iter 0 1 2 n))
 
 ;Here's an explanation if your are struggling with the iterative solution
-;Basicall start with f(2), f(1) and f(0) and iterate from that
-; i.e find a way to iterate from f(2)f(1)f(0) to f(3)f(2)(f1)
 ;https://stackoverflow.com/questions/2365993/no-idea-how-to-solve-sicp-exercise-1-11
