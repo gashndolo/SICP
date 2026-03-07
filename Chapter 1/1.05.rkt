@@ -10,7 +10,7 @@ We never get to the (p)
 We have a hint in the exercise -
 (Assume that the evaluation
 rule for the special form if is the same whether the interpreter
-is using normal or applicative order: e predicate
+is using normal or applicative order: the predicate
 expression is evaluated first, and the result determines
 whether to evaluate the consequent or the alternative expression.)
 |#
